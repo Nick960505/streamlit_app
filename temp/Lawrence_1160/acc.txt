@@ -1,0 +1,5 @@
+error:
+
+stop : 6
+down : 1
+two : 1

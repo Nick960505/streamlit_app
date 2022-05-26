@@ -1,0 +1,7 @@
+error:
+
+
+down : 1
+four : 1
+go : 1
+stop : 4
